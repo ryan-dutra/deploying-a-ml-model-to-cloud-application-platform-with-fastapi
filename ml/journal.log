@@ -109,9 +109,9 @@ root - INFO -            feature                feature value n_samples precisio
 25  native-country                      Hungary         3       1.0       0.0       0.0
 26  native-country                       Taiwan        10      0.75      0.75      0.75
 27  native-country                       Greece         7       1.0       1.0       1.0
-28  native-country                       Poland         9       0.0       0.0       0.0
+28  native-country                       Poland         9       0.0       0.0       1.0
 29  native-country   Outlying-US(Guam-USVI-etc)         2       1.0       1.0       1.0
-30  native-country                      Jamaica        26       0.0       0.0       0.0
+30  native-country                      Jamaica        26       0.0       0.0       1.0
 31  native-country                        Haiti         7       1.0       1.0       1.0
 32  native-country                    Guatemala        12       1.0       1.0       1.0
 33  native-country                      Ireland         6       1.0       0.0       0.0
