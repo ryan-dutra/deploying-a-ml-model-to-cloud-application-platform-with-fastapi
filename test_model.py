@@ -28,14 +28,14 @@ def features():
     """
     Fixture - will return the categorical features as argument
     """
-    cat_features = [    "workclass",
-                        "education",
-                        "marital-status",
-                        "occupation",
-                        "relationship",
-                        "race",
-                        "sex",
-                        "native-country"]
+    cat_features = [    " workclass",
+                        " education",
+                        " marital-status",
+                        " occupation",
+                        " relationship",
+                        " race",
+                        " sex",
+                        " native-country"]
     return cat_features
 
 
