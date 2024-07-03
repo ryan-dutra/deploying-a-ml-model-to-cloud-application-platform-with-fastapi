@@ -47,12 +47,12 @@ def train_dataset(data, features):
     train, test = train_test_split( data, 
                                 test_size=0.20, 
                                 random_state=10, 
-                                stratify=data['salary']
+                                stratify=data[' salary']
                                 )
     X_train, y_train, encoder, lb = process_data(
                                             train,
                                             categorical_features=features,
-                                            label="salary",
+                                            label=" salary",
                                             training=True
                                         )
     return X_train, y_train
